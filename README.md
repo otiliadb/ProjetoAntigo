@@ -15,9 +15,7 @@ Este projeto é simples e serve apenas como material didático para demonstraç�
 
 1. Clone o repositório:
    git clone https://github.com/otiliadb/ProjetoAntigo.git
-2. Acesse a pasta do projeto:
-   cd ProjetoAntigo
-3. Importe o projeto para a IDE escolhida
+2. Importe o projeto para a IDE escolhida
 
 
 ## Boas práticas com Git / GitHub
