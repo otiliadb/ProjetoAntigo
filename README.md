@@ -1,10 +1,9 @@
-Esse é um repositório para testes chamado Projeto Antigo.
-Repositório de exemplo / didático em Java, criado para ser utilizado em aulas sobre Git e GitHub.
+
 
 ## Sobre
-
+Esse é um repositório para testes chamado Projeto Antigo.
+Repositório de exemplo / didático em Java, criado para ser utilizado em aulas sobre Git e GitHub.
 Este projeto é simples e serve apenas como material didático para demonstração de controle de versão com Git e GitHub.  
-Não tem funcionalidade complexa — o foco é permitir que estudantes pratiquem comandos de versionamento.
 
 ## Pré-requisitos
 
